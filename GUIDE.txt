@@ -1,0 +1,8 @@
+CREER UNE API PHP SANS FRAMEWORK
+
+Qu'est ce qu'une API ? 
+Qu'est ce qu'une API REST ?
+
+- création de la base de donnée dans config/data/
+
+- Créer et éditer le fichier install 
