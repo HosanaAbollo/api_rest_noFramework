@@ -1,8 +1,28 @@
-CREER UNE API PHP SANS FRAMEWORK
+                                            CREER UNE API PHP SANS FRAMEWOR
+
+
+
+
 
 Qu'est ce qu'une API ? 
 Qu'est ce qu'une API REST ?
 
+---> Pour les réponses il faut d'abord se documenter 
+
+
+
 - création de la base de donnée dans config/data/
 
 - Créer et éditer le fichier install 
+
+-------- PHP 7 API REST , structure du projet -------------
+
+Structure simple : 
+
+    - Le dossier config pour stocker les fichiers de configuration
+    - Le dossier entities pour stocker les classes PHP qui encapsule les entités (tables de bdd) utilisées par notre API
+
+-----------------------------------------------------------------------------------------------------------
+
+
+-------- Connection à la base de données -----------
